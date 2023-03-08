@@ -1,0 +1,43 @@
+body{
+    background-color: lavender;
+}
+
+.border{
+    border: 5px solid white;
+    background-color: white;
+    border-radius:5%;
+    border-color: white;
+    padding-left:10px;
+    padding-right: 50px;
+    padding-top: 10px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    height: 350px;
+    width: 200px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+img{
+    width: 235px;
+    height: 200px;
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    
+}
+
+#Text{
+    text-align: center;
+}
+
+.attribution{
+position: absolute;
+top: 80%;
+left: 48%;
+}
